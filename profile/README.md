@@ -1,1 +1,1 @@
-![](rtemis-aiml.svg)
+![](rtemis.svg)
