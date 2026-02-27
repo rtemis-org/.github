@@ -1,1 +1,1 @@
-[![rtemis](https://www.rtemis.org/cover.avif)](https://www.rtemis.org)
+[![rtemis](https://www.rtemis.org/rtemis-org.avif)](https://www.rtemis.org)
